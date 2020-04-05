@@ -1,6 +1,6 @@
 class Dog
 end
 
-Spanky = Dog.new
-Marmaduke = Dog.new
-Jake = Dog.new
+spanky = Dog.new
+marmaduke = Dog.new
+jake = Dog.new
