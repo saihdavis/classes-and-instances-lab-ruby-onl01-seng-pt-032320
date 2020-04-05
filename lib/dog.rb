@@ -2,5 +2,5 @@ class Dog
 end
 
 spanky = Dog.new
-marmaduke = Dog.new
+snoopy = Dog.new
 lassie = Dog.new
